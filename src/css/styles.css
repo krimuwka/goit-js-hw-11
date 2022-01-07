@@ -7,8 +7,8 @@
       Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: url("https://webmail.scarlet.be/resources/img/body_grain.gif") #35e4f1;
-    color: #000000;
+    background-color: url("https://webmail.scarlet.be/resources/img/body_grain.gif") #f14035;
+    color: #212121;
     line-height: 1.5;
     margin: auto;
 }
@@ -30,7 +30,7 @@ a {
 
 .search-form{
     display: flex;
-    background-color: #3580f1;
+    background-color: #f14035;
     padding: 33px 5px 22px 3px;
     align-items: center;
     justify-content: center;
